@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Tiwari</h1>
-<h3 align="center">A passionate MERN Stack developer  Nepal</h3>
+<h3 align="center">A passionate MERN Stack developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabintiwari&label=Profile%20views&color=0e75b6&style=flat" alt="prabintiwari" /> </p>
 
